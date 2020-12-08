@@ -1,0 +1,70 @@
+*{margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+
+form input{
+    width: 270px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border: 2px solid black;
+    margin-left: 50px;
+    padding: 5px 0;
+    
+       }
+ .input_box {
+     width: 100%;
+     display: flex;
+     background-color: #3b4955;
+     position: relative;
+     justify-content: center;
+     margin-right: 40px;
+     margin-bottom: 40px;
+
+ }
+
+ i {
+     font-size: 30px;
+     position: absolute;
+     left: 12px;
+     top: 8px;
+     color: #fff;
+
+ }
+    .form_inputs{
+        display: flex;
+    }
+
+
+form textarea {
+    width: 648px;
+    height: 222px;
+    border-right: 2px black;
+    margin-left: 50px;
+   
+}
+
+.container {
+    width: 700px;
+    height: 400px;
+    margin: 120px auto 0 auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 26px;
+    font-family: sans-serif;
+    color: #48bf72;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+button {
+    width: 698px;
+    height: 45px;
+    background-color: #48bf72;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
