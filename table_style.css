@@ -18,7 +18,7 @@ table {
    }
 
    tr:last-child td {
-       border:  double black;
+       border: 4px  double black;
        border-width: bold;
        color: blue;
    }
