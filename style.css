@@ -41,7 +41,7 @@ form input{
     left: 100px;
     top: 8px;
  }
- 
+
  .form_inputs{
         display: flex;
     }
@@ -79,3 +79,4 @@ button {
     font-size: 14px;
     font-weight: bold;
 }
+
