@@ -8,6 +8,15 @@ table {
     border: 2px solid black; 
    }
 
+   th {
+       width: 270px;
+   }
+
+   th:first-child {
+       width: 150px;
+
+   }
+
    .it_gr {
        background: green;
        color: white;
@@ -21,6 +30,7 @@ table {
        border: 7px  double black;
        border-width: bold;
        color: blue;
+       font-weight: bold;
    }
 
    img {
