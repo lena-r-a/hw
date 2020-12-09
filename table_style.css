@@ -46,17 +46,3 @@ table {
       display: flex;
   }
 
-  .fr:hover img {
-    display: flex;
-  }
-
-  .shw:hover img, .gr:hover img, .mex:hover img, .ah:hover img,
-   .shwa:hover img, .ru:hover img, .tu:hover img, .da:hover img, 
-   .be:hover img, .nd:hover img, .se:hover img, .isp:hover img,
-    .jp:hover img, .arg:hover img, .ch:hover img, .pa:hover img,
-     .it_gr:hover img, .bg:hover img, .nor:hover img, .rum:hover img, 
-     .alb:hover img, .port:hover img, .liht:hover img, .usa:hover img, 
-     .luks:hover img, .grs:hover img  {
-    display: flex;
-  }
-
