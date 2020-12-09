@@ -34,9 +34,15 @@ form input{
      left: 12px;
      top: 8px;
      color: #fff;
-
  }
-    .form_inputs{
+
+ img {
+    position: absolute;
+    left: 100px;
+    top: 8px;
+ }
+ 
+ .form_inputs{
         display: flex;
     }
 
